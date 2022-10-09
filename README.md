@@ -22,7 +22,7 @@ Create Hacktoberfest PRs. Star this Repo!⭐
 
   
     
-  step2: upload an image in images folder
+  step2: upload an image in images folder 
 
   step3: open index.html
 
