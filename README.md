@@ -51,8 +51,6 @@ Create Hacktoberfest PRs. Star this Repo!⭐
 
 <br></br>
 
-
-
 ##
 ## <div align="center"> 🥳 Congratulations!! 🥳 </div>
 ## <div align="center">🙌🙌You just created your 1st PR🙌🙌</div>
