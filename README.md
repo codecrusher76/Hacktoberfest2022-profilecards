@@ -17,7 +17,7 @@ Create Hacktoberfest PRs. Star this Repo!⭐
 
 ##Steps
 <br></br>
- step1:go to https://github.com/abhijitmondal121/Hacktoberfest-profileCardGenerator and click on *"star"*🌟 and *"fork"*🍴 and follow the account. 
+ step1:go to https://github.com/Nitishpal68/Hacktoberfest2022-profilecards and click on *"star"*🌟 and *"fork"*🍴 and follow the account. 
 
 
   
@@ -77,5 +77,7 @@ Create Hacktoberfest PRs. Star this Repo!⭐
 ##
 
 ## <div align="center">🤞Happy Hacking🤞</div>
+<br><br>
+<div align="center">🤞Happy Hacking🤞</div>
 <br></br>
 
