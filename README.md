@@ -32,7 +32,7 @@ Create Hacktoberfest PRs. Star this Repo!⭐
           <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">Nitish Pal</h5>
-            <p class="card-text">Hello, I am Nitish.Currently pursuing BTech in Information Technology. I am a Web Development enthusiast loves the open source      contributions and webtech.</p>
+            <p class="card-text">Hello, I am Nitish.Currently pursuing BTech in Information Technology. I am a Web Development enthusiast loves the open source  contributions and webtech.</p>
             <a href="https://github.com/Nitishpal68" class="btn btn-primary"> Github</a>
             <a href="https://www.linkedin.com/in/nitish-pal-8a001b142/" class="btn btn-primary">Linkdin</a>
          </div>
