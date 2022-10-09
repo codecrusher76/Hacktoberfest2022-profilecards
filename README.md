@@ -78,6 +78,6 @@ Create Hacktoberfest PRs. Star this Repo!⭐
 
 ## <div align="center">🤞Happy Hacking🤞</div>
 <br><br>
-<div align="center">🤞Happy Hacking🤞</div>
+## <div align="center">Made with 💗 By Nitish Pal</div>
 <br></br>
 
