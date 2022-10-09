@@ -13,7 +13,7 @@ Create Hacktoberfest PRs. Star this Repo!⭐
 - You can sign up **anytime between October 1 and October 31**.
 <br></br>
 
-<b>Live</b> https://nitishpal68.github.io/Hacktoberfest2022-profileCardGenerator/
+<b>Live</b> 
 
 ##Steps
 <br></br>
@@ -22,7 +22,7 @@ Create Hacktoberfest PRs. Star this Repo!⭐
 
   
     
-  step2: upload an image in images folder <b> Only jpg and png allowed
+  step2: upload an image in images folder <b> only jpg and png allowed</b>
 
   step3: open index.html
 
